@@ -1,7 +1,7 @@
 nvm
 ===
 
-Install nvm and Node.js.
+Install nvm and Node.js. - Tweaked for my needs, might not work for you.
 
 Requirements
 ------------
